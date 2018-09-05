@@ -1,0 +1,7 @@
+# a file that we dont want to include even if we use the command $ git add, then all you have to do is add it here on this .gitignore folder
+
+log.txt
+
+# if we dont want the whole folder of a particular folder
+
+/dir2
